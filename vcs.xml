@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/pierx/custom_dialog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/djdarkknight96/DJSubstratumTemplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dcrc" />
