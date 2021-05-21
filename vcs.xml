@@ -34,8 +34,12 @@
           <option name="url" value="https://github.com/djdarkknight96/DJSubstratumTemplate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/asep08/custom_dialog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dcrc\subs" />
+    <option name="cloneParentDir" value="D:\dcrc\Private" />
   </component>
 </application>
